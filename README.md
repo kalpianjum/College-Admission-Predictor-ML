@@ -1,5 +1,7 @@
 # 🎓 College Admission Predictor
 
+**Live Demo**: [https://college-admission-predictor-ml.vercel.app/](https://college-admission-predictor-ml.vercel.app/)
+
 A full-stack, machine learning-powered web application designed to predict the best-fitting colleges/institutions for students based on their exam rank, category, desired branch, and region (specifically built for AP EAPCET 2023 data).
 
 ## 🏛 Architecture Overview

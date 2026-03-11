@@ -60,7 +60,7 @@ function App() {
       /><br /><br />
 
       <input
-        placeholder="Enter Category (e.g. BCE-GIRLS)"
+        placeholder="Enter Category (e.g. BCE_GIRLS)"
         value={category}
         onChange={(e) => setCategory(e.target.value)}
       /><br /><br />
